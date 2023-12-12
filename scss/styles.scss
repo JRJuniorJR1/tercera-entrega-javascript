@@ -278,6 +278,10 @@ main {
 
 .header-mobile, .close-menu, .disabled {
     display: none;
+    position: sticky;
+    background-color: $color-contenedor;
+    top: 0; 
+    z-index: 1;
 }
 
 /*** MEDIA QUERIES ***/

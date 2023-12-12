@@ -267,6 +267,10 @@ main {
 
 .header-mobile, .close-menu, .disabled {
   display: none;
+  position: sticky;
+  background-color: rgb(213, 181, 156);
+  top: 0;
+  z-index: 1;
 }
 
 /*** MEDIA QUERIES ***/
