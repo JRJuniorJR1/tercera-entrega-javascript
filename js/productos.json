@@ -1,0 +1,142 @@
+[
+    {
+        "id": "camisa-cloud9",
+        "titulo": "Camisa Cloud 9",
+        "imagen": "../img/camisas/camisa-cloud9.webp",
+        "categoria": {
+            "nombre": "Camisas",
+            "id": "camisa"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "camisa-navi",
+        "titulo": "Camisa Navi",
+        "imagen": "../img/camisas/camisa-navi.webp",
+        "categoria": {
+            "nombre": "Camisas",
+            "id": "camisa"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "camisa-spirit",
+        "titulo": "Camisa Spirit",
+        "imagen": "../img/camisas/camisa-spirit.webp",
+        "categoria": {
+            "nombre": "Camisas",
+            "id": "camisa"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "golden-skull",
+        "titulo": "Golden Skull",
+        "imagen": "../img/camisas/golden-skull.webp",
+        "categoria": {
+            "nombre": "Camisas",
+            "id": "camisa"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "sueter-astralis",
+        "titulo": "Sueter Astralis",
+        "imagen": "../img/camisas/sueter-astralis.webp",
+        "categoria": {
+            "nombre": "Camisas",
+            "id": "camisa"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "monitor-zowie-27pulg",
+        "titulo": "Monitor Zowie 27 Pulgadas 165hz",
+        "imagen": "../img/monitores/monitor-zowie-27pulg.webp",
+        "categoria": {
+            "nombre": "Monitores",
+            "id": "monitor"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "monitor-zowie-144hz",
+        "titulo": "Monitor Zowie 24 Pulgadas 144hz",
+        "imagen": "../img/monitores/monitor-zowie-144hz.webp",
+        "categoria": {
+            "nombre": "Monitores",
+            "id": "monitor"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "monitor-zowie-360hz",
+        "titulo": "Monitor Zowie 24 Pulgadas 360hz",
+        "imagen": "../img/monitores/monitor-zowie-360hz.webp",
+        "categoria": {
+            "nombre": "Monitores",
+            "id": "monitor"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "monitor-zowie-27pulg-165hz",
+        "titulo": "Monitor Zowie 27 Pulgadas 165hz",
+        "imagen": "../img/monitores/monitor-zowie-27pulg.webp",
+        "categoria": {
+            "nombre": "Monitores",
+            "id": "monitor"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "mosepad-dragonlore",
+        "titulo": "Mosepad Dragon Lore",
+        "imagen": "../img/mousepad/mosepad-dragonlore.webp",
+        "categoria": {
+            "nombre": "Mousepad",
+            "id": "mousepad"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "mousepad-ak",
+        "titulo": "Mousepad Ak-47",
+        "imagen": "../img/mousepad/mousepad-ak.webp",
+        "categoria": {
+            "nombre": "Mousepad",
+            "id": "mousepad"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "mousepad-aug",
+        "titulo": "Mousepad Aug",
+        "imagen": "../img/mousepad/mousepad-aug.webp",
+        "categoria": {
+            "nombre": "Mousepad",
+            "id": "mousepad"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "mousepad-awp",
+        "titulo": "Mousepad Awp Medussa",
+        "imagen": "../img/mousepad/mousepad-awp.webp",
+        "categoria": {
+            "nombre": "Mousepad",
+            "id": "mousepad"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "mousepad-m4s",
+        "titulo": "Mousepad M4-S",
+        "imagen": "../img/mousepad/mousepad-m4s.webp",
+        "categoria": {
+            "nombre": "Mousepad",
+            "id": "mousepad"
+        },
+        "precio": 1000
+    }
+]
