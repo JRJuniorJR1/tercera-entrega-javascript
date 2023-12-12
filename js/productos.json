@@ -7,7 +7,7 @@
             "nombre": "Camisas",
             "id": "camisa"
         },
-        "precio": 1000
+        "precio": 1500
     },
     {
         "id": "camisa-navi",
@@ -17,7 +17,7 @@
             "nombre": "Camisas",
             "id": "camisa"
         },
-        "precio": 1000
+        "precio": 1350
     },
     {
         "id": "camisa-spirit",
@@ -27,7 +27,7 @@
             "nombre": "Camisas",
             "id": "camisa"
         },
-        "precio": 1000
+        "precio": 1650
     },
     {
         "id": "golden-skull",
@@ -37,7 +37,7 @@
             "nombre": "Camisas",
             "id": "camisa"
         },
-        "precio": 1000
+        "precio": 1999
     },
     {
         "id": "sueter-astralis",
@@ -47,7 +47,7 @@
             "nombre": "Camisas",
             "id": "camisa"
         },
-        "precio": 1000
+        "precio": 3505
     },
     {
         "id": "monitor-zowie-27pulg",
@@ -57,7 +57,7 @@
             "nombre": "Monitores",
             "id": "monitor"
         },
-        "precio": 1000
+        "precio": 250000
     },
     {
         "id": "monitor-zowie-144hz",
@@ -67,7 +67,7 @@
             "nombre": "Monitores",
             "id": "monitor"
         },
-        "precio": 1000
+        "precio": 265000
     },
     {
         "id": "monitor-zowie-360hz",
@@ -77,7 +77,7 @@
             "nombre": "Monitores",
             "id": "monitor"
         },
-        "precio": 1000
+        "precio": 365000
     },
     {
         "id": "monitor-zowie-27pulg-165hz",
@@ -87,7 +87,7 @@
             "nombre": "Monitores",
             "id": "monitor"
         },
-        "precio": 1000
+        "precio": 250000
     },
     {
         "id": "mosepad-dragonlore",
@@ -97,7 +97,7 @@
             "nombre": "Mousepad",
             "id": "mousepad"
         },
-        "precio": 1000
+        "precio": 500
     },
     {
         "id": "mousepad-ak",
@@ -107,7 +107,7 @@
             "nombre": "Mousepad",
             "id": "mousepad"
         },
-        "precio": 1000
+        "precio": 650
     },
     {
         "id": "mousepad-aug",
@@ -117,7 +117,7 @@
             "nombre": "Mousepad",
             "id": "mousepad"
         },
-        "precio": 1000
+        "precio": 700
     },
     {
         "id": "mousepad-awp",
@@ -127,7 +127,7 @@
             "nombre": "Mousepad",
             "id": "mousepad"
         },
-        "precio": 1000
+        "precio": 900
     },
     {
         "id": "mousepad-m4s",
@@ -137,6 +137,6 @@
             "nombre": "Mousepad",
             "id": "mousepad"
         },
-        "precio": 1000
+        "precio": 960
     }
 ]

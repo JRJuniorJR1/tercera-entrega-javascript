@@ -92,16 +92,16 @@ function agregarAlCarrito(e) {
         position: "right", // `left`, `center` or `right`
         stopOnFocus: true, // Prevents dismissing of toast on hover
         style: {
-        background: "linear-gradient(to right, #4b33a8, #785ce9)",
+        background: "linear-gradient(to right, #ba46fc, #3f5efb)",
         borderRadius: "2rem",
         textTransform: "uppercase",
         fontSize: ".75rem"
         },
         offset: {
-            x: '1.5rem', // horizontal axis - can be a number or a string indicating unity. eg: '2em'
-            y: '1.5rem' // vertical axis - can be a number or a string indicating unity. eg: '2em'
+            x: '1.5rem',
+            y: '1.5rem'
     },
-        onClick: function(){} // Callback after click
+        onClick: function(){}
 }).showToast();
 
     const idBoton = e.currentTarget.id;

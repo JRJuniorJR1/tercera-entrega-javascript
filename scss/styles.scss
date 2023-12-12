@@ -342,14 +342,14 @@ main {
     align-items: center;
 
     .logo {
-        color: $color-texto-principal;
+        color: $color-letra-carrito;
         
     }
 }
 
 .open-menu {
     background-color: transparent;
-    color: $color-texto-principal;
+    color: $color-letra-carrito;
     border: 0;
     font-size: 2rem;
     cursor: pointer;
@@ -357,7 +357,7 @@ main {
 
 .close-menu {
     background-color: transparent;
-    color: $color-fondo-carrito;
+    color: $color-letra-carrito;
     border: 0;
     font-size: 2rem;
     cursor: pointer;

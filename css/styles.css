@@ -320,18 +320,18 @@ main {
     align-items: center;
   }
   .header-mobile .logo {
-    color: rgb(0, 0, 0);
+    color: rgb(87, 62, 43);
   }
   .open-menu {
     background-color: transparent;
-    color: rgb(0, 0, 0);
+    color: rgb(87, 62, 43);
     border: 0;
     font-size: 2rem;
     cursor: pointer;
   }
   .close-menu {
     background-color: transparent;
-    color: rgba(197, 197, 197, 0.4745098039);
+    color: rgb(87, 62, 43);
     border: 0;
     font-size: 2rem;
     cursor: pointer;
